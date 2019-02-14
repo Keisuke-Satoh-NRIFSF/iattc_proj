@@ -4,3 +4,5 @@ install_github('hoyles/cpue.rfmo', usename="Keisuke-Satoh-NRIFSF", auth_token = 
 library(cpue.rfmo)
 
 plot(1:10)
+#making a new
+plot(1:9, col='red')
