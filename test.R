@@ -8,3 +8,4 @@ plot(1:10)
 plot(1:9, col='red')
 plot(1:9, col='blue')
 plot(1:25, col='green')
+hist(runif(100)) # histogram of random values
